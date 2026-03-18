@@ -5,7 +5,7 @@ const education = [
     degree: "Bachelor of Science in Cybersecurity & Operations",
     school: "Mississippi State University",
     period: "Expected May 2028",
-    gpa: "3.8/4.0",
+    gpa: "3.8",
     details: [
       "Dean's List: Fall 2023, Spring 2024",
       "Relevant Coursework: Data Structures, Database Systems, Web Development, Machine Learning",
@@ -16,7 +16,7 @@ const education = [
     degree: "Master of Science in Cybersecurity & Operations",
     school: "Mississippi State University",
     period: "Expected May 2029",
-    gpa: "3.8/4.0",
+    gpa: "4.0",
     details: [
       "Part of Mississippi State's advanced masters degree program called Thrive-in-Five",
       "Relevant Coursework: Cyber Operations, Computer Forensics, Network Security, Secure Software",
