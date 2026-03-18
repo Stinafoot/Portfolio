@@ -74,7 +74,7 @@ export function Contact() {
                 type="email"
                 id="email"
                 className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-800 rounded-lg focus:outline-none focus:ring-2 focus:ring-pink-600"
-                placeholder="your.email@example.com"
+                placeholder="your_email@example.com"
               />
             </div>
             <div>
