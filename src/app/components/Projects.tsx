@@ -2,12 +2,12 @@ import { Code2, ExternalLink, Github } from "lucide-react";
 
 const projects = [
   {
-    title: "AI Study Assistant",
+    title: "Online Ecommerce Store",
     description:
-      "An intelligent study companion that helps students organize notes, generate quizzes, and track learning progress using AI.",
-    technologies: ["React", "TypeScript", "OpenAI API", "Tailwind CSS"],
-    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800&auto=format&fit=crop",
-    github: "#",
+      "A program using databases and python to create an online bookstore.",
+    technologies: ["SQlite", "Python", "Databases"],
+    image: "https://img.freepik.com/free-photo/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg?semt=ais_hybrid&w=740&q=80",
+    github: "https://github.com/Stinafoot/EcommerceProgram",
     demo: "#",
   },
   {
