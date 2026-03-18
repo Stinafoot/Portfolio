@@ -13,7 +13,7 @@ const projects = [
   {
     title: "Timed Typing Game",
     description:
-      "A platform for students to discover, track, and RSVP to campus events, clubs, and activities at Mississippi State University.",
+      "A game to test your timed typing skills!",
     technologies: ["C", "VS Code"],
     image: "https://img.freepik.com/free-photo/closeup-business-woman-hand-typing-laptop-keyboard_1232-2958.jpg?semt=ais_hybrid&w=740&q=80",
     github: "https://github.com/Stinafoot/Timed-Typing-Game",
