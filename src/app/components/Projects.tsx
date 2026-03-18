@@ -5,18 +5,18 @@ const projects = [
     title: "Online Ecommerce Store",
     description:
       "A program using databases and python to create an online bookstore.",
-    technologies: ["SQlite", "Python", "Databases"],
+    technologies: ["SQlite", "Python", "VS Code"],
     image: "https://img.freepik.com/free-photo/showing-cart-trolley-shopping-online-sign-graphic_53876-133967.jpg?semt=ais_hybrid&w=740&q=80",
     github: "https://github.com/Stinafoot/EcommerceProgram",
     demo: "#",
   },
   {
-    title: "Campus Event Tracker",
+    title: "Timed Typing Game",
     description:
       "A platform for students to discover, track, and RSVP to campus events, clubs, and activities at Mississippi State University.",
-    technologies: ["React", "Node.js", "MongoDB", "Express"],
-    image: "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=800&auto=format&fit=crop",
-    github: "#",
+    technologies: ["C", "VS Code"],
+    image: "https://img.freepik.com/free-photo/closeup-business-woman-hand-typing-laptop-keyboard_1232-2958.jpg?semt=ais_hybrid&w=740&q=80",
+    github: "https://github.com/Stinafoot/Timed-Typing-Game",
     demo: "#",
   },
   {
