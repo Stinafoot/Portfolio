@@ -9,7 +9,7 @@ export function Resume() {
   const handleDownload = () => {
     const link = document.createElement("a");
     link.href = resumePath;
-    link.download = "CB_Resume.pdf";
+    link.download = "Christina_Barefoot_Resume.pdf";
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
