@@ -28,8 +28,8 @@ export function About() {
             </p>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
               When I'm not studying or coding, you'll find me
-              participating in hackathons, contributing to
-              open-source projects, or mentoring younger
+              participating in hackathons, running around
+              cybersecurity conferences, or mentoring younger
               students in programming. I'm actively seeking
               internship opportunities for Summer 2027 and am
               excited to apply my skills in a real-world
