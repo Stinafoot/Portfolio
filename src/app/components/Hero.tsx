@@ -9,7 +9,7 @@ export function Hero() {
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
           <img
-            src="https://media.licdn.com/dms/image/v2/D5603AQG4OWYglmf0EQ/profile-displayphoto-shrink_800_800/B56ZYqXn6tGsAg-/0/1744467559506?e=1775088000&v=beta&t=0f0N_f929aPERuxl5PC2vJp6w3AZxOnVT-sD4Shzo1A"
+            src="https://media.licdn.com/dms/image/v2/D5603AQGWvAg2d57gqw/profile-displayphoto-scale_400_400/B56Z0p9FkQK0Ak-/0/1774525375961?e=1776297600&v=beta&t=h6vYWxXL4N-tj0_HAtRsml-eocorlHOueOGuvs_x71Q"
             alt="Profile"
             className="w-48 h-48 rounded-full mx-auto object-cover shadow-2xl ring-4 ring-pink-200 dark:ring-pink-800"
           />
@@ -36,7 +36,6 @@ export function Hero() {
           >
             Get in Touch
           </a>
-          /*
           <a
             href="#projects"
             className="px-8 py-3 border-2 border-gray-300 dark:border-gray-600 rounded-lg hover:border-pink-600 dark:hover:border-pink-500 transition-colors"
