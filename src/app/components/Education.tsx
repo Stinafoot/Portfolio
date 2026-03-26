@@ -7,7 +7,7 @@ const education = [
     period: "Expected May 2028",
     gpa: "3.8",
     details: [
-      "President's List: Fall 2023, Spring 2024",
+      "President's List: Fall 2024, Spring 2025, Fall 2025",
       "Relevant Coursework: Data Structures, Database Systems, Web Development, Machine Learning",
       "Member of VICEROY scholars, Women in Cybersecurity, Cybersecurity Club and Society of Women Engineers",
     ],
