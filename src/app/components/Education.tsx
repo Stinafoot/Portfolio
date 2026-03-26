@@ -7,7 +7,7 @@ const education = [
     period: "Expected May 2028",
     gpa: "3.8",
     details: [
-      "Dean's List: Fall 2023, Spring 2024",
+      "President's List: Fall 2023, Spring 2024",
       "Relevant Coursework: Data Structures, Database Systems, Web Development, Machine Learning",
       "Member of VICEROY scholars, Women in Cybersecurity, Cybersecurity Club and Society of Women Engineers",
     ],
@@ -19,7 +19,7 @@ const education = [
     gpa: "4.0",
     details: [
       "Part of Mississippi State's advanced masters degree program called Thrive-in-Five",
-      "Relevant Coursework: Cyber Operations, Computer Forensics, Network Security, Secure Software",
+      "Relevant Coursework: Cyber Operations",
     ],
   },
 ];
