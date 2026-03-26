@@ -1,9 +1,6 @@
 import { Download, FileText, ExternalLink } from "lucide-react";
 
 export function Resume() {
-  // To use a real resume PDF:
-  // 1. Add your resume.pdf file to the /public folder
-  // 2. Update the resumePath below to '/resume.pdf'
   const resumePath = "/Christina_Barefoot_Resume.pdf";
 
   const handleDownload = () => {
