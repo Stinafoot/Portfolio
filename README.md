@@ -14,11 +14,22 @@ Along the way, I ran into practical challenges that helped me better understand 
 
 ## Tech Stack
 
-- React
-- Tailwind CSS
-- JavaScript (ES6+)
-- Vercel (Deployment)
-- Git & GitHub
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styling-38B2AC?logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
+![Vercel](https://img.shields.io/badge/Vercel-Deployment-black?logo=vercel)
+![GitHub](https://img.shields.io/badge/GitHub-Version_Control-black?logo=github)
+
+---
+
+## Features
+- Responsive portfolio layout
+- Reusable React components
+- Modern UI inspired by Figma designs
+- Tailwind CSS utility-based styling
+- Project showcase section
+- Skills and experience sections
+- Live deployment with Vercel
 
 ---
 
@@ -37,6 +48,10 @@ Through this project, I gained hands-on experience with:
 ## Key Takeaway
 
 One of the most important lessons from this project was understanding how small details—such as file organization, component structure, and naming conventions—can significantly impact how smoothly an application runs and deploys.
+
+## Live Demo
+
+
 
 ---
 
