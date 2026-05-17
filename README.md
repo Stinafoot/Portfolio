@@ -49,10 +49,6 @@ Through this project, I gained hands-on experience with:
 
 One of the most important lessons from this project was understanding how small details—such as file organization, component structure, and naming conventions—can significantly impact how smoothly an application runs and deploys.
 
-## Live Demo
-
-
-
 ---
 
 ## Live Demo
